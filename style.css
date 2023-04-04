@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+}
+
+.navbar  {
+ 
+padding: 15px;
+ background-color: #da0000;
+ margin: 0;
+ justify-content: space-evenly;
+ display: flex;
+ 
+}
+.navbar a{
+    color: #ffff;
+    margin-right: 12px;
+    text-decoration: none;
+    text-align:right;
+    display: block;
+   
+}
+.logo{
+    padding: 15px;
+} 
+
